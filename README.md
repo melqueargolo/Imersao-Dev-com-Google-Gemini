@@ -3,7 +3,7 @@
 
 link do curso: https://cursos.alura.com.br
 
-nstrutores e Instrutoras da Alura nessa imersão:
+instrutores e Instrutoras da Alura nessa imersão:
 
 Rafaella Ballerini
 Instrutora front-end @ Alura.
